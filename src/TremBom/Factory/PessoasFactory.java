@@ -6,7 +6,7 @@ import TremBom.Pessoas.pFunc;
 
 
 
-public abstract class PessoasFactory {
+public abstract  class PessoasFactory {
 
     public static Pessoas pFactory(String tipo, String nome, int idade, String cpf) {
 
